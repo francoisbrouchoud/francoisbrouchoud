@@ -31,4 +31,4 @@ I'm currently pursuing a Bachelor's degree in Business IT. I enjoy developing ap
 ## Contact
 - **Email**: [francois@brouchoud.ch](mailto:francois@brouchoud.ch)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoisbrouchoud)
-- [![GitLab (older projects)](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/francoisbrouchoud)
+- [![GitLab)](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/francoisbrouchoud)(older projects)
