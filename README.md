@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## About Me
 I'm currently pursuing a Bachelor's degree in Business IT. I enjoy developing applications displaying interactive maps.
 
 ## Skills
@@ -14,7 +13,7 @@ I'm currently pursuing a Bachelor's degree in Business IT. I enjoy developing ap
 ## Projects
 
 ### Personal Projects
-- **[Swiss telecom antennas map / Python](https://github.com/francoisbrouchoud/celltowermap)**: Exclusive map of telecom antennas in Switzerland by operator
+- **[Swiss telecom antennas map / Python](https://celltowermap.ch/)**: Exclusive map of telecom antennas in Switzerland by operator
 
 ### Bachelor Projects
 - **[Foire du Valais virtuelle / JavaScript Game](https://github.com/francoisbrouchoud/Javascript_Game)**: JS Game simulating the famous Foire du Valais using Canva.
