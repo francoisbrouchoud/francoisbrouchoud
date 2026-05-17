@@ -15,7 +15,7 @@ Multi-platform app for Valais museums featuring an interactive map and education
 
 ### [Energy Dashboard for Swiss communes](https://vlhmobetic.hevs.ch/energy-dashboard)
 Dashboard centralizing energy indicators from RegBL data to support comparison between communes. Built with the energy advisory service of Upper Valais.
-`Angular` `Python` `SQL` 
+`Angular` `Python` `SQL`
 
 ---
 
@@ -41,10 +41,29 @@ Open source interactive map of mobile antenna sites in Switzerland based on offi
 
 ## Tech stack
 
-- **Frontend & mobile** &nbsp; Angular · Flutter · TypeScript
-- **Backend & APIs** &nbsp; C# .NET · Java · REST
-- **Data & scripting** &nbsp; SQL · Firebase · Python
-- **Tools & methodology** &nbsp; DevOps · Power Automate · Scrum (PSM I) · IPMA Level D
+**Frontend & mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend & APIs**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=fastapi&logoColor=white)
+
+**Data & scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools & methodology**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Scrum PSM I](https://img.shields.io/badge/Scrum-PSM_I-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![IPMA Level D](https://img.shields.io/badge/IPMA-Level_D-0066B3?style=flat)
+
 
 ---
 
