@@ -1,33 +1,64 @@
-## Hi there 👋
+*Building digital tools at the interface between requirements engineering, data and full-stack development.*
 
-I'm currently pursuing a Master's degree in Management of Information Systems. I enjoy developing applications that are not only functional but also visually engaging, such as interactive maps or tools enhancing user experience. I’m particularly passionate about leveraging technology for digital transformation and creating innovative solutions.
+---
 
-## Skills
-- **Languages**: 
-  - Front-end: JavaScript, Angular, React
-  - Back-end: Java, C# ASP.NET
-  - Database: SQL, Firebase
+## Professional projects
 
-- **Interests**: Digitalization processes, mobile network technologies, interactive map development
+### [GROUP-IT](https://group-it.ch)
+Energy renovation platform used in resident grouping projects for communal energy renovation.
+Active contributor since December 2024.
+`Angular` `.NET` `SQL` &nbsp;·&nbsp; *private repo · [live platform](https://group-it.ch)*
 
-## Projects
+### [ExpoNomade Edu App](https://app.musees-vs.ch/)
+Multi-platform app for Valais museums featuring an interactive map and educational content. From requirements gathering to delivered mandate.
+`Flutter` `Firebase`
 
-### Personal Projects
-- **[Swiss telecom antennas map / Python](https://celltowermap.ch/)**: Exclusive map of telecom antennas in Switzerland by operator
+### [Energy Dashboard for Swiss communes](https://vlhmobetic.hevs.ch/energy-dashboard)
+Dashboard centralizing energy indicators from RegBL data to support comparison between communes. Built with the energy advisory service of Upper Valais.
+`Angular` `SQL` &nbsp;·&nbsp; *private repo · [live platform](https://vlhmobetic.hevs.ch/energy-dashboard)*
 
-### Projects during Business IT Bachelor
-- **[Foire du Valais virtuelle / JavaScript Game](https://github.com/francoisbrouchoud/Javascript_Game)**: JS Game simulating the famous Foire du Valais using Canva.
-- **[Fitness check advisor / React](https://github.com/francoisbrouchoud/React_FitnessQuizAnalytics_Firestore)**: React app that collects user fitness data and provides personalized advice. Results are visualized using a radar plot for easy understanding. The app uses Firestore as its database.
-- **[Badminton booking app / Android JAVA](https://github.com/francoisbrouchoud/AndroidDev_BadmintonCourtsReservation)**: An Android Java app for booking badminton courts using Google real-time database.
-- **[Dataset explorer / Fun Prog Scala](https://github.com/francoisbrouchoud/DatasetExplorer_FunProgScala)**: Functional programming in Scala to analyze a CSV dataset of real estate properties in England, performing several functional queries to explore the data.
-- **[Rest API Project / C#](https://github.com/francoisbrouchoud/EntityFramework_WebAPI_VSFlyProject)**: Flight booking app REST API using C# and EntityFramework
-- **[SOAP API Project / C#](https://github.com/francoisbrouchoud/ITSM_SOAP_PrintSystemIntegration)**: Print credit conversion SOAP API using C# and displaying with Windows Form App
-- **[Distributed prog P2P Streaming JAVA](https://github.com/francoisbrouchoud/DistributedProg_P2PStreaming)**: This project implements a distributed P2P streaming application in Java, focusing on practical use of threads and file reading and writing.
+---
 
-### Professional Projects (public)
-- **[ExpoNomade Edu App / Flutter](https://app.musees-vs.ch/)**: An educational app for museum visitors featuring interactive maps.
+## Academic research
 
-## Contact
-- **Email**: [francois@brouchoud.ch](mailto:francois@brouchoud.ch)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francoisbrouchoud)
-- [![GitLab)](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/francoisbrouchoud) older projects
+### [Bachelor thesis — Secure Energy Building Advisor](https://github.com/francoisbrouchoud/BachelorThesis_SecureEnergyBuildingAdvisor)
+RegBL-based tool advising residents on building renovation opportunities using official Swiss building data.
+`Angular` `RegBL` &nbsp;·&nbsp; [live platform](https://energyadvisor.iemweb.hevs.ch/)
+
+### Master thesis — LLMs for sensitive legal cases *(in progress)*
+Evaluation of large language models on Swiss Federal Supreme Court cases, with focus on over-refusal, confidentiality, accuracy and traceability.
+`LLMs` `Legal NLP` `Research`
+
+---
+
+## Personal explorations
+
+### [Swiss Cell Tower Map](https://celltowermap.ch/)
+Open source interactive map of mobile antenna sites in Switzerland based on official OFCOM data. Includes a Python conversion script and an Angular web application.
+`Python` `Angular` `Open data` &nbsp;·&nbsp; [source code](https://github.com/francoisbrouchoud/celltowermap)
+
+---
+
+## Tech stack
+
+- **Frontend & mobile** &nbsp; Angular · Flutter · TypeScript
+- **Backend & APIs** &nbsp; C# .NET · Java · REST
+- **Data & scripting** &nbsp; SQL · Firebase · Python
+- **Tools & methodology** &nbsp; DevOps · Power Automate · Scrum (PSM I) · IPMA Level D
+
+---
+
+## Bachelor coursework
+
+A selection of projects developed during the Business IT Bachelor at HES-SO Valais-Wallis:
+
+- [Foire du Valais virtuelle](https://github.com/francoisbrouchoud/Javascript_Game) — Browser game inspired by the Valais trade fair `JavaScript`
+- [Fitness check advisor](https://github.com/francoisbrouchoud/React_FitnessQuizAnalytics_Firestore) — Fitness quiz app with Firestore and radar chart results `React`
+- [Badminton booking app](https://github.com/francoisbrouchoud/AndroidDev_BadmintonCourtsReservation) — Mobile app for court reservation with real-time database `Java` `Android`
+- [Dataset explorer](https://github.com/francoisbrouchoud/DatasetExplorer_FunProgScala) — Functional exploration of a real estate CSV dataset `Scala`
+- [REST API project](https://github.com/francoisbrouchoud/EntityFramework_WebAPI_VSFlyProject) — Flight booking REST API using Entity Framework `C#`
+- [SOAP API project](https://github.com/francoisbrouchoud/ITSM_SOAP_PrintSystemIntegration) — Print credit conversion service with a Windows Forms client `C#`
+- [VSeat food delivery](https://github.com/Celinevialard/FoodDeliveryPlatform) — Food delivery platform built with ASP.NET Core MVC `C#`
+- [P2P streaming](https://github.com/francoisbrouchoud/DistributedProg_P2PStreaming) — Distributed peer-to-peer streaming project `Java`
+- [University manager](https://github.com/francoisbrouchoud/Java_JakartaEE_UniversityEntities) — University management platform with JSF, EJB, JPA and role-based security `Jakarta EE`
+- [Shamir's Secret Sharing](https://github.com/francoisbrouchoud/JAVA_Cryptography_Shamir_Secret) — CLI tool for secret sharing and file encryption `Java`
