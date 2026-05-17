@@ -41,8 +41,6 @@ Open source interactive map of mobile antenna sites in Switzerland based on offi
 
 ## Tech stack
 
-> Click any badge to see my repositories using that technology.
-
 **Frontend & mobile**
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+angular&type=repositories)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+flutter&type=repositories)
