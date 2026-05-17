@@ -23,7 +23,7 @@ Dashboard centralizing energy indicators from RegBL data to support comparison b
 
 ### [Bachelor thesis — Secure Energy Building Advisor](https://github.com/francoisbrouchoud/BachelorThesis_SecureEnergyBuildingAdvisor)
 RegBL-based tool advising residents on building renovation opportunities using official Swiss building data.
-`Angular` `RegBL` &nbsp;·&nbsp; [live platform](https://energyadvisor.iemweb.hevs.ch/)
+`Angular` `.NET` `DevSecOps` &nbsp;·&nbsp; [live platform](https://energyadvisor.iemweb.hevs.ch/)
 
 ### Master thesis — LLMs for sensitive legal cases *(in progress)*
 Evaluation of large language models on Swiss Federal Supreme Court cases, with focus on over-refusal, confidentiality, accuracy and traceability.
