@@ -7,7 +7,7 @@
 ### [GROUP-IT](https://group-it.ch)
 Energy renovation platform used in resident grouping projects for communal energy renovation.
 Active contributor since December 2024.
-`Angular` `.NET` `SQL` &nbsp;·&nbsp; 
+`Angular` `.NET` `SQL`
 
 ### [ExpoNomade Edu App](https://app.musees-vs.ch/)
 Multi-platform app for Valais museums featuring an interactive map and educational content. From requirements gathering to delivered mandate.
@@ -15,7 +15,7 @@ Multi-platform app for Valais museums featuring an interactive map and education
 
 ### [Energy Dashboard for Swiss communes](https://vlhmobetic.hevs.ch/energy-dashboard)
 Dashboard centralizing energy indicators from RegBL data to support comparison between communes. Built with the energy advisory service of Upper Valais.
-`Angular` `SQL` &nbsp;·&nbsp; 
+`Angular` `SQL` 
 
 ---
 
