@@ -41,21 +41,23 @@ Open source interactive map of mobile antenna sites in Switzerland based on offi
 
 ## Tech stack
 
+> Click any badge to see my repositories using that technology.
+
 **Frontend & mobile**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+angular&type=repositories)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+flutter&type=repositories)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+typescript&type=repositories)
 
 **Backend & APIs**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=fastapi&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+dotnet&type=repositories)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+language%3AC%23&type=repositories)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+language%3AJava&type=repositories)
+[![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=fastapi&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+rest&type=repositories)
 
 **Data & scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+language%3APython&type=repositories)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Afrancoisbrouchoud+sql&type=repositories)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3Afrancoisbrouchoud+firebase&type=repositories)
 
 **Tools & methodology**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
