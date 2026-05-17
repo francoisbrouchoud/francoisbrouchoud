@@ -6,8 +6,8 @@
 
 ### [GROUP-IT](https://group-it.ch)
 Energy renovation platform used in resident grouping projects for communal energy renovation.
-Active contributor since December 2024.
-`Angular` `.NET` `SQL`
+Active developer since December 2024.
+`Angular` `.NET` `Python`
 
 ### [ExpoNomade Edu App](https://app.musees-vs.ch/)
 Multi-platform app for Valais museums featuring an interactive map and educational content. From requirements gathering to delivered mandate.
