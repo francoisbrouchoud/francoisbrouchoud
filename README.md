@@ -15,7 +15,7 @@ Multi-platform app for Valais museums featuring an interactive map and education
 
 ### [Energy Dashboard for Swiss communes](https://vlhmobetic.hevs.ch/energy-dashboard)
 Dashboard centralizing energy indicators from RegBL data to support comparison between communes. Built with the energy advisory service of Upper Valais.
-`Angular` `SQL` 
+`Angular` `Python` `SQL` 
 
 ---
 
